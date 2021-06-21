@@ -1,15 +1,11 @@
 {
   "apps": [
     {
-      "app_name": "Ak Developers",
-      "url": "https:\/\/play.google.com\/store\/apps\/details?id=com.football_live_score.hd_live_football_matches"
-    },
-    {
       "app_name": "Its Abhishek",
       "url": "https:\/\/play.google.com\/store\/apps\/details?id=com.football_streaming.live_football_streaming.football_live_tv.football_soccer"
     },
     {
-      "app_name": "One 2 Three (1)",
+      "app_name": "One Two Three (1)",
       "url": "https:\/\/play.google.com\/store\/apps\/details?id=com.football_live_streaming_apps.football_live_tv_1.football_live_streaming.football_soccer_app"
     },
     {
@@ -17,8 +13,36 @@
       "url": "https:\/\/play.google.com\/store\/apps\/details?id=com.football_streaming_app.live_football_streaming_tv.football_live_tv.football_soccer_3"
     },
     {
-      "app_name": "Testing SA Enter (4)",
-      "url": "https:\/\/play.google.com\/store\/apps\/details?id=com.live_football_tv.live_football_app.football_streaming_tv.football_match"
+      "app_name": "Ak Developers",
+      "url": "https:\/\/play.google.com\/store\/apps\/details?id=com.football_live_score.hd_live_football_matches"
+    },
+    {
+      "app_name": "Universal Football (2)",
+      "url": "https:\/\/play.google.com\/store\/apps\/details?id=com.football_live_streaming.live_football_streaming.live_football_tv.football_soccer2"
+    },
+    {
+      "app_name": "AllTech(1)",
+      "url": "https:\/\/play.google.com\/store\/apps\/details?id=com.football_hd_live.football_live_streaming_app.live_streaming_tv.football_live_matches"
+    },
+    {
+      "app_name": "Umar(1)",
+      "url": "https:\/\/play.google.com\/store\/apps\/details?id=com.live_football.football_live_tv.hd_live_streaming.live_football_matches"
+    },
+    {
+      "app_name": "Excel (2)",
+      "url": "https:\/\/play.google.com\/store\/apps\/details?id=com.hd_live_football.football_live_streaming.live_football_streaming.live_football_matches"
+    },
+    {
+      "app_name": "One Two Three (2)",
+      "url": "https:\/\/play.google.com\/store\/apps\/details?id=com.football_live_streaming_app.football_live_tv_2.football_live_streaming.football_soccer_app"
+    },
+    {
+      "app_name": "RD Creation Player",
+      "url": "https:\/\/play.google.com\/store\/apps\/details?id=com.video_stream.video_player.live_stream.hd_player"
+    },
+    {
+      "app_name": "Rehan Sports",
+      "url": "https:\/\/play.google.com\/store\/apps\/details?id=com.football_live.live_streaming_football.live_streaming_match.hd_live_matches_one"
     }
   ]
 }
